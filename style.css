@@ -1,0 +1,56 @@
+header{
+background-image: linear-gradient(darkgray, gray );
+display: flex;
+
+
+}
+.Bem{
+position: relative;
+left: 20%;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+   
+
+}
+.img1{
+    text-align: center;
+    width: 5%;
+}
+.sair{
+    position: relative;
+    right: -55%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.opções{
+    position: relative;
+    right: -45%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.login{
+    position: relative;
+    left: 4%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+.entrar{
+    position: relative;
+    left: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.S1{
+background-color: dimgray;
+
+}
+.img2{
+    width: 20%;
+    position: relative;
+    right: -37%;
+}
+.T1{
+    font-size: 150%;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.img3{
+    
+}
